@@ -4,13 +4,76 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": "教育经历\n工作经历\n\n\n\n\n\n技能一\n技能二\n…\n\n\n\n\n\n成就一\n成就二\n…\n\n\n\n\n\n个人价值观\n职业目标\n个人使命或动机\n\n\n\n\n\n电子邮件：你的邮箱 \n社交媒体：Twitter | LinkedIn"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "VeTech",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "个人简介或概览\n\n\n\n\n\n重点内容/项目标题\n重点内容/项目标题\n重点内容/项目标题\n\n\n\n\n\n博客 \n项目 \n联系方式 \n\n\n\n\n\n电子邮件：你的邮箱 \n社交媒体：Twitter | LinkedIn"
+  },
+  {
+    "objectID": "index.html#简介概览",
+    "href": "index.html#简介概览",
+    "title": "VeTech",
+    "section": "",
+    "text": "个人简介或概览"
+  },
+  {
+    "objectID": "index.html#重点内容展示",
+    "href": "index.html#重点内容展示",
+    "title": "VeTech",
+    "section": "",
+    "text": "重点内容/项目标题\n重点内容/项目标题\n重点内容/项目标题"
+  },
+  {
+    "objectID": "index.html#导航链接",
+    "href": "index.html#导航链接",
+    "title": "VeTech",
+    "section": "",
+    "text": "博客 \n项目 \n联系方式"
+  },
+  {
+    "objectID": "index.html#联系信息",
+    "href": "index.html#联系信息",
+    "title": "VeTech",
+    "section": "",
+    "text": "电子邮件：你的邮箱 \n社交媒体：Twitter | LinkedIn"
+  },
+  {
+    "objectID": "about.html#个人背景",
+    "href": "about.html#个人背景",
+    "title": "About",
+    "section": "",
+    "text": "教育经历\n工作经历"
+  },
+  {
+    "objectID": "about.html#专业技能",
+    "href": "about.html#专业技能",
+    "title": "About",
+    "section": "",
+    "text": "技能一\n技能二\n…"
+  },
+  {
+    "objectID": "about.html#成就和荣誉",
+    "href": "about.html#成就和荣誉",
+    "title": "About",
+    "section": "",
+    "text": "成就一\n成就二\n…"
+  },
+  {
+    "objectID": "about.html#个人使命",
+    "href": "about.html#个人使命",
+    "title": "About",
+    "section": "",
+    "text": "个人价值观\n职业目标\n个人使命或动机"
+  },
+  {
+    "objectID": "about.html#联系方式",
+    "href": "about.html#联系方式",
+    "title": "About",
+    "section": "",
+    "text": "电子邮件：你的邮箱 \n社交媒体：Twitter | LinkedIn"
   }
 ]
